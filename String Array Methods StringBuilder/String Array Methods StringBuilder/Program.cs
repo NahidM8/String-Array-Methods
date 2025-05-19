@@ -1,4 +1,6 @@
-﻿namespace String_Array_Methods_StringBuilder
+﻿using System.Text;
+
+namespace String_Array_Methods_StringBuilder
 {
     internal class Program
     {
@@ -89,12 +91,14 @@
 
         public static void Palindrome(string word)
         {
-            string reverse = string.Empty;
+            StringBuilder reverse = new ();
+
             for (int i = word.Length - 1; i >= 0; i--)
             {
-                reverse += word[i];
+                reverse.Append(word[i]);
             }
-            if (word == reverse)
+
+            if (word == reverse.ToString())
                 Console.WriteLine("True");
             else
                 Console.WriteLine("False");
@@ -102,16 +106,15 @@
 
         public static string RemoveRep(ref string word) 
         {
-            string result = string.Empty;
+            StringBuilder result = new();
             foreach (var letter in word)
             {
-                if (result.IndexOf(letter) == -1)
+                if (result.ToString().IndexOf(letter) == -1)
                 {
-                    result += letter;
+                    result.Append(letter);
                 }
             }
-
-            word = result;
+            word = result.ToString();
             return word;
         }
 

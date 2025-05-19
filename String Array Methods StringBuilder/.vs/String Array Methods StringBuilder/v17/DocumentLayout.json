@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nahid\\Desktop\\Pb305\\String Array Methods StringBuilder\\",
+  "WorkspaceRootPath": "C:\\Users\\Nahid\\Desktop\\Pb305\\Task5\\String Array Methods StringBuilder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7D88DA0-7A6C-4E87-ACD1-6A14158E3115}|String Array Methods StringBuilder\\String Array Methods StringBuilder.csproj|c:\\users\\nahid\\desktop\\pb305\\string array methods stringbuilder\\string array methods stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7D88DA0-7A6C-4E87-ACD1-6A14158E3115}|String Array Methods StringBuilder\\String Array Methods StringBuilder.csproj|c:\\users\\nahid\\desktop\\pb305\\task5\\string array methods stringbuilder\\string array methods stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7D88DA0-7A6C-4E87-ACD1-6A14158E3115}|String Array Methods StringBuilder\\String Array Methods StringBuilder.csproj|solutionrelative:string array methods stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nahid\\Desktop\\Pb305\\String Array Methods StringBuilder\\String Array Methods StringBuilder\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nahid\\Desktop\\Pb305\\Task5\\String Array Methods StringBuilder\\String Array Methods StringBuilder\\Program.cs",
               "RelativeDocumentMoniker": "String Array Methods StringBuilder\\Program.cs",
-              "ToolTip": "C:\\Users\\Nahid\\Desktop\\Pb305\\String Array Methods StringBuilder\\String Array Methods StringBuilder\\Program.cs",
+              "ToolTip": "C:\\Users\\Nahid\\Desktop\\Pb305\\Task5\\String Array Methods StringBuilder\\String Array Methods StringBuilder\\Program.cs",
               "RelativeToolTip": "String Array Methods StringBuilder\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T12:39:47.394Z",
               "EditorCaption": ""
